@@ -35,8 +35,7 @@
 
 ## 連絡・発信
 
-- X(旧Twitter): 準備中です。
-- GitHub: [momo](https://github.com/momo3535)
+- X(旧Twitter): [@momo_learning](https://x.com/momo_learning)
 
 ---
 
